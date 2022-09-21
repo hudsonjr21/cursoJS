@@ -1,2 +1,4 @@
-console.log('Hello word')
-console.log(12)
+console.log(typeof Object)
+
+class Produto {}
+console.log(typeof Produto)
